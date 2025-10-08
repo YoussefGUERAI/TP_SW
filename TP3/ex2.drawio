@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="Y9HMARYmGWYA54-A5BWU">
-    <mxGraphModel dx="979" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1089" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="470" y="370" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0LiU8m4L1AXI0Rs9ViZ-6" value="Forward email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="500" width="210" height="60" as="geometry" />
+          <mxGeometry x="440" y="480" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0LiU8m4L1AXI0Rs9ViZ-7" value="Attach files" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="620" width="210" height="60" as="geometry" />
@@ -61,10 +61,10 @@
           <mxGeometry x="750" y="150" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0LiU8m4L1AXI0Rs9ViZ-25" value="reply individually&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="390" width="210" height="60" as="geometry" />
+          <mxGeometry x="780" y="500" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0LiU8m4L1AXI0Rs9ViZ-26" value="reply to all&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="320" width="210" height="60" as="geometry" />
+          <mxGeometry x="780" y="440" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0LiU8m4L1AXI0Rs9ViZ-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.038;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s0LiU8m4L1AXI0Rs9ViZ-5" target="s0LiU8m4L1AXI0Rs9ViZ-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -114,6 +114,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="330" as="sourcePoint" />
             <mxPoint x="480" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0LiU8m4L1AXI0Rs9ViZ-36" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.169;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s0LiU8m4L1AXI0Rs9ViZ-6" target="s0LiU8m4L1AXI0Rs9ViZ-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="700" y="662" as="sourcePoint" />
+            <mxPoint x="856" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
