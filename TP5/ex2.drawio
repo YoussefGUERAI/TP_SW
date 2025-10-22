@@ -1,0 +1,201 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="vjkTP3FbpqeTQSnuh0XV">
+    <mxGraphModel dx="1676" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ppuTF25nik1_oCw5nDmb-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Player&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Game&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="53" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-6" value="Choose a cell" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="85" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-6" parent="1" target="ppuTF25nik1_oCw5nDmb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-8" value="mine ?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-9" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-8" parent="1" target="ppuTF25nik1_oCw5nDmb-39">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="630" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-10" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-8" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="145" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-11" value="number ?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.442;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-11" parent="1" target="ppuTF25nik1_oCw5nDmb-14">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="280" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-13" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-11" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="460" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="640" />
+              <mxPoint x="146" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-14" value="number revealed" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-14" parent="1" target="ppuTF25nik1_oCw5nDmb-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-24" value="won?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-25" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-24" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="610" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-26" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-24" parent="1" target="ppuTF25nik1_oCw5nDmb-6">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="260" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="261" y="640" />
+              <mxPoint x="261" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-33" value="reveal neighbor cells" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-34" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="ppuTF25nik1_oCw5nDmb-33" parent="1" target="ppuTF25nik1_oCw5nDmb-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="790" />
+              <mxPoint x="511" y="790" />
+              <mxPoint x="511" y="830" />
+              <mxPoint x="70" y="830" />
+              <mxPoint x="70" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-39" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="880" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="ppuTF25nik1_oCw5nDmb-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1330" as="sourcePoint" />
+            <mxPoint x="280" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-41" value="Player" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="ppuTF25nik1_oCw5nDmb-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1330" as="sourcePoint" />
+            <mxPoint x="280" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="276" y="980" width="10" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="470" y="1010" width="10" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-46" value="Game" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ppuTF25nik1_oCw5nDmb-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1020" as="sourcePoint" />
+            <mxPoint x="340" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-50" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1045" width="300" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-51" value="choose cell" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="998" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-52" value="Mine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1050" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-53" value="game lost" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="ppuTF25nik1_oCw5nDmb-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1090" as="sourcePoint" />
+            <mxPoint x="390" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1.016;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="232" y="1130" as="sourcePoint" />
+            <mxPoint x="534.0499999999997" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-55" value="Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-56" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1160" width="255" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-57" value="game won" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-58" value="game ends" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="ppuTF25nik1_oCw5nDmb-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1220" as="sourcePoint" />
+            <mxPoint x="390" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-59" value="else :" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1238" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-60" value="continue" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="ppuTF25nik1_oCw5nDmb-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1290" as="sourcePoint" />
+            <mxPoint x="390" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-61" value="empty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1348" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1.016;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="228.98" y="1340" as="sourcePoint" />
+            <mxPoint x="531.0299999999997" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-64" value="reveal neighbor cells" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="ppuTF25nik1_oCw5nDmb-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1390" as="sourcePoint" />
+            <mxPoint x="390" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-66" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="980" width="510" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ppuTF25nik1_oCw5nDmb-67" value="Game not ended" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1010" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
