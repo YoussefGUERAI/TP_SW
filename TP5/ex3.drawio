@@ -159,7 +159,7 @@
             <mxPoint x="185" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l150wmNKyCZO7CX6cOHq-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l150wmNKyCZO7CX6cOHq-58" value="Break chocolate into pieces&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
