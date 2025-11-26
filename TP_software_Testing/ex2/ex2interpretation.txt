@@ -1,0 +1,15 @@
+In Exercise 2, I applied Boundary Value Analysis (BVA) to the temperature 
+regulator.
+The specification defines a tolerance zone of ±0.5°C around the target 
+temperature.
+I therefore identified the two critical boundaries: target – 0.5 and 
+target + 0.5.
+
+I designed a complete set of test cases covering values just below, at, 
+and just above these boundaries.
+The goal was to verify that the regulator transitions correctly between 
+the HEAT, COOL, and STANDBY states.
+
+After running the tests, all assertions passed successfully, confirming 
+that the implementation behaves as expected.
+No defect was detected within the tested boundary range.
